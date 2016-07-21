@@ -1,0 +1,34 @@
+1. Why Map-reduce program is needed in Pig Programming?
+map redecue executes the pig commands
+
+2. What are advantages of pig over MapReduce?
+
+easy to code and time saving .
+
+3. What is pig engine and what is its importance?
+
+It acts as interpreter between pig scripts and mapreduce jobs
+
+4. What are the modes of Pig execution?
+
+local and hdfs mode
+
+5. What is grunt shell in Pig?
+
+shell which help to execute all pig commands
+
+6. What are the features of Pig Latin language?
+
+Pig is made up of two components: the first is the language itself,
+ which is called PigLatin (yes, people naming various Hadoop projects do tend 
+ to have a sense of humor associated with their naming conventions), and the second is a 
+ runtime environment where PigLatin programs are executed. Think of the relationship between a 
+Java Virtual Machine (JVM) and a Java application. In this section, we’ll just refer to the whole entity as Pig.
+
+
+7. Is Pig latin commands case sensitive?
+No
+
+8. What is a data flow language?
+
+Data flow language is basicially step by step execution of working on datasets 
